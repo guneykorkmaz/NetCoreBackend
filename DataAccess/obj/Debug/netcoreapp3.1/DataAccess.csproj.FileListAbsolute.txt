@@ -13,17 +13,3 @@ C:/Users/Güney/source/repos/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/Dat
 C:/Users/Güney/source/repos/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
 C:/Users/Güney/source/repos/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
 C:/Users/Güney/source/repos/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
-/Volumes/apps/Visual Studio/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb

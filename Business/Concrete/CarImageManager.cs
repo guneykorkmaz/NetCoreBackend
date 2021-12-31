@@ -64,7 +64,7 @@ namespace Business.Concrete
                     {
                         CarId = carId,
                         Date = DateTime.Now,
-                        ImagePath = Environment.CurrentDirectory + @"\images\default.png"
+                        ImagePath = Environment.CurrentDirectory + @"\images\default.jpeg"
                     }
                 };
                 return new SuccessDataResult<List<CarImage>>(defaultImage);

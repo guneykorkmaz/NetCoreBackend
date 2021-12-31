@@ -11,15 +11,3 @@ C:/Users/Güney/source/repos/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entit
 C:/Users/Güney/source/repos/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Core.dll
 C:/Users/Güney/source/repos/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Core.pdb
 C:/Users/Güney/source/repos/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CopyComplete
-/Volumes/apps/Visual Studio/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Entities.deps.json
-/Volumes/apps/Visual Studio/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Entities.dll
-/Volumes/apps/Visual Studio/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
-/Volumes/apps/Visual Studio/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Core.dll
-/Volumes/apps/Visual Studio/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Core.pdb
-/Volumes/apps/Visual Studio/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.AssemblyReference.cache
-/Volumes/apps/Visual Studio/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
-/Volumes/apps/Visual Studio/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
-/Volumes/apps/Visual Studio/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CoreCompileInputs.cache
-/Volumes/apps/Visual Studio/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CopyComplete
-/Volumes/apps/Visual Studio/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.dll
-/Volumes/apps/Visual Studio/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.pdb

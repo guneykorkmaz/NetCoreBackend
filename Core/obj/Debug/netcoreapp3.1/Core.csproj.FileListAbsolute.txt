@@ -8,12 +8,3 @@ C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.Asse
 C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
 C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.dll
 C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.pdb
-/Volumes/apps/Visual Studio/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.deps.json
-/Volumes/apps/Visual Studio/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.dll
-/Volumes/apps/Visual Studio/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.pdb
-/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.AssemblyReference.cache
-/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
-/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
-/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
-/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.dll
-/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.pdb
