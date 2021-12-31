@@ -1,6 +1,6 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{8D977446-2922-4F61-B7FC-8476394858C5}|Default">
   <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Concrete/CarImageManager.cs">
     <Files>
       <File FileName="Entities/Concrete/Rental.cs" Line="8" Column="31" />
       <File FileName="DataAccess/Abstract/IBrandDal.cs" />
@@ -11,7 +11,9 @@
         <State name="__root__">
           <Node name="ReCapProject" expanded="True">
             <Node name="Business" expanded="True">
-              <Node name="Concrete" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="CarImageManager.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="Core" expanded="True">
               <Node name="DataAccess" expanded="True">
@@ -25,7 +27,7 @@
               <Node name="Concrete" expanded="True" />
             </Node>
             <Node name="WebAPI" expanded="True">
-              <Node name="images" expanded="True" selected="True" />
+              <Node name="images" expanded="True" />
             </Node>
           </Node>
         </State>
