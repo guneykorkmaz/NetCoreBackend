@@ -1,0 +1,19 @@
+C:/Users/Güney/source/repos/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+C:/Users/Güney/source/repos/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.dll
+C:/Users/Güney/source/repos/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.pdb
+C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.AssemblyReference.cache
+C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.dll
+C:/Users/Güney/source/repos/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.pdb
+/Volumes/apps/Visual Studio/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Volumes/apps/Visual Studio/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Volumes/apps/Visual Studio/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.AssemblyReference.cache
+/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Volumes/apps/Visual Studio/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.pdb

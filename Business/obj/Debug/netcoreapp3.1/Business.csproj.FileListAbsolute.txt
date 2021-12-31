@@ -1,0 +1,32 @@
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.deps.json
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.dll
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.pdb
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/DataAccess.dll
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/Entities.dll
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/DataAccess.pdb
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/Entities.pdb
+C:/Users/Güney/source/repos/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csproj.AssemblyReference.cache
+C:/Users/Güney/source/repos/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Güney/source/repos/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfoInputs.cache
+C:/Users/Güney/source/repos/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfo.cs
+C:/Users/Güney/source/repos/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csproj.CoreCompileInputs.cache
+C:/Users/Güney/source/repos/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.dll
+C:/Users/Güney/source/repos/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.pdb
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/Core.dll
+C:/Users/Güney/source/repos/ReCapProject/Business/bin/Debug/netcoreapp3.1/Core.pdb
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.deps.json
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.dll
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.pdb
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/Core.dll
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/Entities.dll
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/Entities.pdb
+/Volumes/apps/Visual Studio/ReCapProject/Business/bin/Debug/netcoreapp3.1/Core.pdb
+/Volumes/apps/Visual Studio/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csproj.AssemblyReference.cache
+/Volumes/apps/Visual Studio/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfoInputs.cache
+/Volumes/apps/Visual Studio/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfo.cs
+/Volumes/apps/Visual Studio/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csproj.CoreCompileInputs.cache
+/Volumes/apps/Visual Studio/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csproj.CopyComplete
+/Volumes/apps/Visual Studio/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.dll
+/Volumes/apps/Visual Studio/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.pdb
